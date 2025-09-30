@@ -1,3 +1,9 @@
+-=(Poseidon notes)=-
+
+Requirements:
+Copy the AtariLynx.rom at the root of the SD card.
+
+___
 # [Atari Lynx](https://en.wikipedia.org/wiki/Atari_Lynx) for [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 
